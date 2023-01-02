@@ -10,7 +10,7 @@ export const tekaTeki = (ctx: Context) => {
 
 ${question}
 
-<tg-spoiler>${answer}</tg-spoiler>
+<tg-spoiler><b>${answer}</b></tg-spoiler>
 `
     ctx.reply(text, {
         parse_mode: "HTML"
