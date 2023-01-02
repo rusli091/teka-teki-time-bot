@@ -15,6 +15,6 @@ export const tekaTekis: TekaTeki[] = [
     },
     {
         question: "Dalam banyak-banyak kotak, kotak apa yang berdosa? 📦",
-        answer: "Kotaksembahyang 😈🧎🏼‍♂️git "
+        answer: "Kotaksembahyang 😈🧎🏼‍♂️ "
     }
 ]
